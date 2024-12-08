@@ -1,6 +1,4 @@
  Spotify Tracks Dataset
-This dataset provides a collection of Spotify tracks from 125 unique genres, enriched with various audio features. It’s designed for exploring music trends, analyzing audio characteristics, and studying genre-specific traits. The data is provided in CSV format, making it easy to load and analyze.
-
 📂 Dataset Overview
 Each row in the dataset represents a single Spotify track, complete with metadata and audio analysis features. With tracks from diverse genres, this dataset offers a rich resource for music analysis.
 
@@ -44,12 +42,12 @@ Identify patterns across genres using track_genre and popularity.
 Build Machine Learning Models:
 Use audio features for tasks like genre classification or popularity prediction.
 
-🎯 Potential Applications
+- Potential Applications
 Music Recommendations: Create systems to suggest tracks based on user preferences.
 Genre Studies: Analyze unique patterns within and across genres.
 Hit Prediction: Explore what makes a track popular.
 Music Trends: Gain insights into evolving musical styles.
-⚠️ Notes and Limitations
+- Notes and Limitations
 Popularity scores may not reflect the current state of Spotify streams.
 Some tracks could belong to multiple genres due to overlapping classifications.
 Explicitness is binary and does not capture variations in explicit content.
